@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="218af5e9-f548-44ea-bd87-d2831e7f3af0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="quizzy" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dgAaT9AMswk1zit1ySb0ZbrLkE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../destini-challenge-starting" />
+    <property name="settings.editor.selected.configurable" value="flutter.settings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Uvanesh B\AndroidStudioProjects\quizzy\fonts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Uvanesh B\AndroidStudioProjects\quizzy\fonts" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Flutter.main.dart">
+    <configuration name="Temp.dart" type="FlutterRunConfigurationType" factoryName="Flutter" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/lib/Temp.dart" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Flutter.Temp.dart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="218af5e9-f548-44ea-bd87-d2831e7f3af0" name="Default Changelist" comment="" />
+      <created>1592836426201</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592836426201</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1598108352897">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1598108352897" />
+    <state width="1476" height="149" key="GridCell.Tab.0.bottom" timestamp="1598014623802">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1476" height="149" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1598014623802" />
+    <state width="1476" height="149" key="GridCell.Tab.0.center" timestamp="1598014623801">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1476" height="149" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1598014623801" />
+    <state width="1476" height="149" key="GridCell.Tab.0.left" timestamp="1598014623801">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1476" height="149" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1598014623801" />
+    <state width="1476" height="149" key="GridCell.Tab.0.right" timestamp="1598014623801">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1476" height="149" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1598014623801" />
+    <state x="439" y="131" width="754" height="601" key="NewModule_or_Project.wizard" timestamp="1597999737606">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="439" y="131" width="754" height="601" key="NewModule_or_Project.wizard/0.0.1536.864@0.0.1536.864" timestamp="1597999737606" />
+    <state x="277" y="75" key="SettingsEditor" timestamp="1593163889973">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="277" y="75" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1593163889973" />
+    <state x="465" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1598108341733">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="465" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1598108341733" />
+    <state x="455" y="259" width="705" height="306" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1593086711581">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="455" y="259" width="705" height="306" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1536.864@0.0.1536.864" timestamp="1593086711581" />
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1593163877872">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1593163877872" />
+  </component>
+</project>
